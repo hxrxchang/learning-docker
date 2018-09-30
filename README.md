@@ -10,12 +10,12 @@ check if image is built
 docker images
 ```
 
-application is running http://localhost:8080/
-
 - run container
 ```
 docker container run handson/tutorial1:latest
 ```
+
+application is running http://localhost:8080/
 
 ## tutorial2
 - build
